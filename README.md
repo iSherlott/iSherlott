@@ -1,5 +1,9 @@
 ## Olá sou o Cleverson, mais conhecido como Sherlott!
-- 👨🏻‍💻 Estudante de programação
+- 👨🏻‍💻 Estudante de programação.
+- 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
+- 👨‍💻 Cursando Analise e Desenvolvimento em sistema.
+- 🌱 Atualmente estou estudando Angular ^8, Flutter, TypeScript e Ruby on Rails.
+
  <div>
   <a href="https://github.com/iSherlott">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iSherlott&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +23,7 @@
   ##
   <a href="https://www.linkedin.com/in/cleverson-silva-151b6a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.wa.me/5511986431738" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
+ <a href="mailto:sherlott@live.com" ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
