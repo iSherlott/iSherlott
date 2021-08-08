@@ -1,4 +1,4 @@
-## Olá sou o Cleverson, mais conhecido como Sherlott!
+## Olá sou o Cleverson, aka Sherlott
 - 👨🏻‍💻 Estudante de programação.
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
 - 👨‍💻 Cursando Analise e Desenvolvimento em sistema.
