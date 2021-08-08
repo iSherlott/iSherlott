@@ -1,7 +1,7 @@
 ## Olá sou o Cleverson, aka Sherlott
 - 👨🏻‍💻 Estudante de programação.
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
-- 👨‍💻 Cursando Analise e Desenvolvimento em sistema.
+- 👨‍💻 Cursando Análise e Desenvolvimento em sistema.
 - 🌱 Atualmente estou estudando Angular ^8, Flutter, TypeScript e Ruby on Rails.
 
  <div>
