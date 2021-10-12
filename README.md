@@ -3,7 +3,6 @@
 </p>
 <h1 align="center"> Cleverson Silva </h1>
 
-## Olá sou o Cleverson, aka Sherlott
 - 👨🏻‍💻 Estudante de programação.
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
 - 👨‍💻 Cursando Análise e Desenvolvimento em sistema.
