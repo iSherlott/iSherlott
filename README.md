@@ -19,14 +19,33 @@
   <img align="center" alt="Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 
 </div>
-  
-  ##
-  <a href="https://www.linkedin.com/in/cleverson-silva-151b6a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.wa.me/5511986431738" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- <a href="mailto:sherlott@live.com" ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
-  
+ 
+ ##
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
+##
+
+# CONTATOS
+  <p>
+    <img align="center" src="./facebook.png" width="30" height="30">
+    <a>https://www.facebook.com/profile.php?id=100026288928919</a>
+  </p>
+  <p>
+    <img align="center" src="./discord.png" width="30" height="30">
+    ID: 750032608506675281 | 🎀Rule44🎀#5073
+  </p>
+  <p>
+    <img align="center" src="./whatsapp.png" width="30" height="30">
+    <a href="wa.me/5511986431738">click here to contact me</a>
+  </p>
+  <p>
+    <img align="center" src="./linkedin.png" width="30" height="30">
+    <a href="https://www.linkedin.com/in/cleverson-silva-151b6a210/">linkdin</a>
+  </p>
+  <p>
+    <img align="center" src="./gmail.png" width="30" height="30">
+    <a href="href="cleverson.rocha.silva@gmail.com"">cleverson.rocha.silva@gmail.com</a>
+  </p>
