@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Estudante de programação.
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
-- 👨‍💻 Cursando Análise e Desenvolvimento em sistema.
+- 👨‍💻 Formado em Análise e Desenvolvimento em sistema.
 - 🌱 Atualmente estou estudando Angular ^8, Flutter, TypeScript e Ruby on Rails.
 
  <div align="center">
