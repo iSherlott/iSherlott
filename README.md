@@ -3,10 +3,11 @@
 </p>
 <h1 align="center"> Cleverson Silva </h1>
 
-- 👨🏻‍💻 Estudante de programação.
+- 👨🏻‍💻 Estudante de Automação Empresarial.
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
-- 👨‍💻 Formado em Análise e Desenvolvimento em sistema.
-- 🌱 Atualmente estou estudando Angular ^8, Flutter, TypeScript e Ruby on Rails.
+- 👨‍💻 Formado em Análise e Desenvolvimento em sistema na Universidade Cruzeiro do Sul 
+- 👨‍💻 Cursando Chatbot e Inteligência Artificial na Universidade Impacta.
+- 🌱 Atualmente estou estudando os Framework: Angular ^8, Flutter e Linguagens de programação: TypeScript, Python, Dart e Ruby on Rails.
 
  <div align="center">
   <a href="https://github.com/iSherlott">
