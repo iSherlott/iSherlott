@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Estudante de Automação Empresarial.
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
 - 👨‍💻 Formado em Análise e Desenvolvimento em sistema na Universidade Cruzeiro do Sul 
-- 👨‍💻 Cursando Chatbot e Inteligência Artificial na Universidade Impacta.
+- 👨‍💻 Cursando MBA Chatbot e Inteligência Artificial na Universidade Impacta.
 - 🌱 Atualmente estou estudando os Framework: Angular ^8, Flutter e Linguagens de programação: TypeScript, Python, Dart e Ruby on Rails.
 
  <div align="center">
