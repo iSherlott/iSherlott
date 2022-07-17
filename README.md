@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Cleverson Silva </h1>
 
-- 👨🏻‍💻 Estudante de Automação Empresarial.
+- 👨🏻‍💻 Especialista em RPA (Robotic Process Automation).
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
 - 👨‍💻 Formado em Análise e Desenvolvimento em sistema na Universidade Cruzeiro do Sul 
 - 👨‍💻 Cursando MBA Chatbot e Inteligência Artificial na Universidade Impacta.
