@@ -24,15 +24,6 @@
   <img align="center" alt="Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 
 </div>
- 
- ##
- <div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-##
 
 <div align="center">
 
