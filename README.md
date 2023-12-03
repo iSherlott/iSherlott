@@ -7,7 +7,7 @@
 - 🔭 Grande conhecimento e especialização em Chatbot, Automoção e Controle de DOM.
 - 👨‍💻 Formado em Análise e Desenvolvimento em sistema na Universidade Cruzeiro do Sul 
 - 👨‍💻 Cursando MBA Chatbot e Inteligência Artificial na Universidade Impacta.
-- 🌱 Atualmente estou estudando os Framework: Angular ^8, Flutter e Linguagens de programação: TypeScript, Python, Dart e Ruby on Rails.
+- 🌱 Atualmente estou estudando os Framework: Angular ^8, Flutter e Linguagens de programação: TypeScript, Python e Dart.
 
  <div align="center">
   <a href="https://github.com/iSherlott">
